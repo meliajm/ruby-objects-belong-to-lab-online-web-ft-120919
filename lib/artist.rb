@@ -7,6 +7,6 @@ class Artist
     @name = name
     
   end
-  binding.pry
+  # binding.pry
  
 end
